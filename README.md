@@ -7,7 +7,7 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 
 >>>>https://ai.str.hk
 
-![图片_20230904092322](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/629e0815-3028-4844-bdc7-b6f9339efcd2)
+![图片_20230919004915](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/9d7d7be7-acc6-462a-ae0c-5f7a4fb81682)
 
 ![1](https://github.com/stellarhk/chatgpt-s2/assets/128345288/fe511368-4c21-4327-ac67-226690522342)
 ![2](https://github.com/stellarhk/chatgpt-s2/assets/128345288/27037fa8-6b23-47e1-85b6-ba5918d5f88f)
@@ -23,6 +23,6 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 ![photo_2023-06-14_21-26-59](https://github.com/stellarhk/chatgpt-s2/assets/128345288/107124ca-1b8d-4913-bec4-609942cb9fc4)
 
 
-![2](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/91ab95c7-8a32-4337-a672-353040ac3907)
+![图片_20230919004915](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/9d7d7be7-acc6-462a-ae0c-5f7a4fb81682)
 ![图片_20230608170321](https://github.com/stellarhk/chatgpt/assets/128345288/0ee07002-c1bb-4549-aeeb-23ace0a2ec81)
-![图片_20230530152225](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/c8ef2c7a-8ad5-453d-a922-85bd03a84916)
+
