@@ -20,9 +20,4 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 ![9](https://github.com/stellarhk/chatgpt-s2/assets/128345288/94afe422-472c-469d-948c-78d9155ed1ab)
 ![10](https://github.com/stellarhk/chatgpt-s2/assets/128345288/36ab6bde-b399-492f-b143-0ba8107f352e)
 ![11](https://github.com/stellarhk/chatgpt-s2/assets/128345288/4bc66662-ac6b-41d8-850f-5f5d5ef5b20b)
-![photo_2023-06-14_21-26-59](https://github.com/stellarhk/chatgpt-s2/assets/128345288/107124ca-1b8d-4913-bec4-609942cb9fc4)
-
-
-![图片_20230919004915](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/9d7d7be7-acc6-462a-ae0c-5f7a4fb81682)
-![图片_20230608170321](https://github.com/stellarhk/chatgpt/assets/128345288/0ee07002-c1bb-4549-aeeb-23ace0a2ec81)
 
