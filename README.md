@@ -6,8 +6,7 @@ Steller集成第一版市面上放出来的代码以及市面上全部基于第�
 可以点击下方链接查看样式体验：
 
 >>>>https://ai.str.hk
-
-![2023-10-25 03 37 19](https://github.com/stellarhk/chatgpt-s2/assets/128345288/6153bf12-f7cf-4d0b-8611-4729ae900065)
+![图片_20231104001545](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/6fde1148-b33c-4997-bb01-28e2dbf8f17f)
 
 
 ![1](https://github.com/stellarhk/chatgpt-s2/assets/128345288/fe511368-4c21-4327-ac67-226690522342)
