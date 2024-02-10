@@ -1,8 +1,8 @@
-# 本项目已更新GPT-4以及GPT-4-32k模型，现在免费加群讨论，即將滿人，欲加从速！
+# 本项目已更新GPT-4以及GPT-4-32k模型，现在免费加群讨论，旧群已满，请加新群，欲加从速！
 #推荐一个好用的API接口：https://api.duckagi.com
-由于群超过人数，请添加下面的小伙伴邀请你进群
-![微信图片_20240202172538](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/8c06b1da-8e7a-4649-bf2e-1bbe189667ef)
-![图片_20240125042145](https://github.com/stellarhk/ChatGPT4.0-Web-Stellar/assets/128345288/19a15620-8d55-44d0-8d16-adcdac68a83a)
+
+![微信图片_20240210015944](https://github.com/stellarhk/chatgpt-s2/assets/128345288/ba87d9f4-cb38-4d94-9555-5e02d1e07a9e)
+
 
 # 介绍
 Steller集成第一版市面上放出来的代码以及市面上全部基于第一版源码的二开版本，并且加了后台以及数据库功能，对此表示对所有贡献者表示感谢。
