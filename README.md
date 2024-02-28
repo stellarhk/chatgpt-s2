@@ -1,7 +1,8 @@
 # 本项目已更新GPT-4以及GPT-4-32k模型，现在免费加群讨论，旧群已满，请加新群，欲加从速！
 #推荐一个好用的API接口：https://api.duckagi.com
 
-![微信图片_20240220143129](https://github.com/stellarhk/chatgpt/assets/128345288/be85126e-2dc2-4250-8922-8de39729e25d)
+![微信图片_20240228204349](https://github.com/stellarhk/chatgpt-s2/assets/128345288/195c7825-cf23-4710-9a22-ac577a0f0e19)
+
 
 
 
